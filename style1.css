@@ -1,0 +1,39 @@
+.col{
+    font-size: larger;
+    font-style: oblique;
+    color: whitesmoke;
+    padding-left: 3%;
+    margin-top: 2%;
+    height: 530px;
+    width: 300px;
+    position: absolute;
+   
+    
+}
+.col-1{
+    
+    left: 50px;
+      position:absolute;
+    background: blue;
+   
+
+}
+.col-2{
+    
+   
+    left: 400px;
+    position:absolute;
+    background: blue;
+}
+.col-3{
+    
+    left: 750px;
+    position: absolute;
+    background:blue;
+}
+.col-4{
+    
+    left: 1100px;
+    position: absolute;
+    background: blue;
+}
